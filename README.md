@@ -25,4 +25,4 @@ Cada laboratorio incluye qué hice, los errores que me salieron y cómo los reso
 
 
 ## Contacto
-[LinkedIn]([https://www.linkedin.com/in/fabian2ramos/])
+[LinkedIn](https://www.linkedin.com/in/fabian2ramos/])
