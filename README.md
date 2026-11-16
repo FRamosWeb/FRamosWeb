@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola, soy Fabian 👋
 
-<!--
-**FRamosWeb/FRamosWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Técnico en Ciberseguridad (en formación) | Soporte TI y Help Desk**
+Los Andes, Chile · Estoy buscando mi primer rol en soporte TI.
 
-Here are some ideas to get you started:
+## Qué estoy estudiando
+- Técnico en Ciberseguridad, AIEP (2025–2027)
+- Google Cybersecurity Certificate (en curso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Qué estoy construyendo
+Laboratorios de Help Desk que monto y resuelvo yo mismo, documentados en
+[helpdesk-labs](https://github.com/FRamosWeb/helpdesk-labs):
+
+| Laboratorio | Estado |
+|---|---|
+| Active Directory | 🔲 Pendiente |
+| Sistema de tickets | 🔲 Pendiente |
+| Microsoft 365 | 🔲 Pendiente |
+| Redes LAN | 🔲 Pendiente |
+| OS Imaging | 🔲 Pendiente |
+
+Cada laboratorio incluye qué hice, los errores que me salieron y cómo los resolví.
+
+
+
+## Contacto
+[LinkedIn]([https://www.linkedin.com/in/fabian2ramos/])
