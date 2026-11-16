@@ -9,12 +9,11 @@ Los Andes, Chile · Estoy buscando mi primer rol en soporte TI.
 
 
 ## Qué estoy construyendo
-Laboratorios de Help Desk que monto y resuelvo yo mismo, documentados en
-[helpdesk-labs](https://github.com/FRamosWeb/helpdesk-labs):
+Laboratorios de Help Desk que monto y resuelvo yo mismo, documentados cada uno dentro de su propio entorno
 
 | Laboratorio | Estado |
 |---|---|
-| Active Directory | 🔲 Pendiente |
+| [Active Directory](./01-Ticketing) | 🔲 Pendiente |
 | Sistema de tickets | 🔲 Pendiente |
 | Microsoft 365 | 🔲 Pendiente |
 | Redes LAN | 🔲 Pendiente |
