@@ -13,7 +13,7 @@ Laboratorios de Help Desk que monto y resuelvo yo mismo, documentados cada uno d
 
 | Laboratorio | Estado |
 |---|---|
-| [Active Directory](./01-Ticketing) | 🔲 Pendiente |
+| [Active Directory](./Active-Directory) | 🔲 Pendiente |
 | Sistema de tickets | 🔲 Pendiente |
 | Microsoft 365 | 🔲 Pendiente |
 | Redes LAN | 🔲 Pendiente |
