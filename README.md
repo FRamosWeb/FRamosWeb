@@ -5,7 +5,7 @@ Los Andes, Chile · Estoy buscando mi primer rol en soporte TI.
 
 ## Qué estoy estudiando
 - Técnico en Ciberseguridad, AIEP (2025–2027)
-- Google Cybersecurity Certificate (en curso)
+- Google Cybersecurity Certificate (en curso)[7/8]
 
 
 ## Qué estoy construyendo
