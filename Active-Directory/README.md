@@ -1,11 +1,17 @@
 # 01 - Active Directory
 
-El objetivo es simular un entorno corporativo donde el cliente se conecta al servidor de la empresa.
 
-Las Herramientas que utilicé para este lab son:
+La Arquitectura del laboratorio es la siguiente:
 
-VirtualBox para Simular el entorno controlado.
+2 VMs (VirtualBox) Configuradas en Red Interna para simular un entorno aislado:
+**SRV-DC01** (Windows Server 2025, IP estática **192.168.50.10**, dominio **srv.local**) y el **Cliente** Windows 11 Enterprise (**192.168.50.20**, apuntando al DNS del servidor)
+<details>
+<summary>Capturas</summary>
 
-Microsoft Windows Server 2025 Evaluation - Este Será el Servidor.
+![CMD Confirmando la Configuracion del SRV](./Images/IP_HostN.png)
+![CMD Valindando Comunicación del Cliente](./Images/Cliente_W.png)
 
-Microsoft Windows 11 Enterprise - Este será el Cliente.
+</details>
+---
+La Estructura y Gobernanza en este laboratorio fue separar a los usuarios en Unidades Organizativas para gestionar controles de acceso y aplicar controles preventivos.
+**Support_TI** para una cuenta (**f.ramos**) nivel Administrador en **Domain Admins**
